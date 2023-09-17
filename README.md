@@ -9,5 +9,4 @@ cjydxhz/cjydxhz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 我是一个小黑子，邮箱:cjydxhz@outlook.com
-同时也是一个学Python写C++的UP
-Java版mc服务器地址:gd.s2.6net.plus:25565,周末开服
+是一个学Python写C++的未知生物
